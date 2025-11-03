@@ -1,13 +1,6 @@
 # [![The Monkeys Uptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://github.com/the-monkeys/upptime)
 
-<!--start: description-->
-
-**The Monkeys Uptime** — open-source uptime monitoring and status page powered by [Upptime](https://github.com/upptime/upptime).  
-Built entirely with GitHub Actions, Issues, and Pages — no servers, no subscriptions, just GitHub 💚
-
-This repository continuously monitors **https://dev.monkeys.support/healthz** and publishes real-time status updates and historical uptime data.
-
-<!--end: description-->
+This repository contains the open-source uptime monitor and status page for [Monkeys](https://monkeys.com.co), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/the-monkeys/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/the-monkeys/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/the-monkeys/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/the-monkeys/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -15,7 +8,8 @@ This repository continuously monitors **https://dev.monkeys.support/healthz** an
 [![Static Site CI](https://github.com/the-monkeys/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/the-monkeys/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/the-monkeys/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/the-monkeys/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
-## [📈 Live Status](https://the-monkeys.github.io/upptime)  
+With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/the-monkeys/upptime/issues) as incident reports, [Actions](https://github.com/the-monkeys/upptime/actions) as uptime monitors, and [Pages](https://the-monkeys.github.io/upptime) for the status page.
+
 <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
@@ -24,7 +18,7 @@ This repository continuously monitors **https://dev.monkeys.support/healthz** an
 <!-- prettier-ignore -->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| <img alt="" src="https://icons.duckduckgo.com/ip3/dev.monkeys.support.ico" height="13"> [The Monkeys Dev Environment](https://dev.monkeys.support/healthz) | 🟩 Up | [the-monkeys-dev.yml](https://github.com/the-monkeys/upptime/commits/HEAD/history/the-monkeys-dev.yml) | <details><summary><img alt="Response time graph" src="./graphs/the-monkeys-dev/response-time-week.png" height="20"> 0ms</summary><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="Response time" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fresponse-time.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="24-hour response time" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fresponse-time-day.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="7-day response time" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fresponse-time-week.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="30-day response time" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fresponse-time-month.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="1-year response time" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fresponse-time-year.json"></a></details> | <details><summary><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev">100.00%</a></summary><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="All-time uptime" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fuptime.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="24-hour uptime" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fuptime-day.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="7-day uptime" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fuptime-week.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="30-day uptime" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fuptime-month.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-dev"><img alt="1-year uptime" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-dev%2Fuptime-year.json"></a></details>
+| <img alt="" src="https://icons.duckduckgo.com/ip3/dev.monkeys.support.ico" height="13"> [The Monkeys Blogs](https://dev.monkeys.support/healthz) | 🟩 Up | [the-monkeys-blogs.yml](https://github.com/the-monkeys/upptime/commits/HEAD/history/the-monkeys-blogs.yml) | <details><summary><img alt="Response time graph" src="./graphs/the-monkeys-blogs/response-time-week.png" height="20"> 1183ms</summary><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="Response time 1183" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fresponse-time.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="24-hour response time 1183" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fresponse-time-day.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="7-day response time 1183" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fresponse-time-week.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="30-day response time 1183" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fresponse-time-month.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="1-year response time 1183" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fresponse-time-year.json"></a></details> | <details><summary><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs">100.00%</a></summary><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="All-time uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fuptime.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="24-hour uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fuptime-day.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="7-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fuptime-week.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="30-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fuptime-month.json"></a><br><a href="https://the-monkeys.github.io/upptime/history/the-monkeys-blogs"><img alt="1-year uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-monkeys%2Fupptime%2FHEAD%2Fapi%2Fthe-monkeys-blogs%2Fuptime-year.json"></a></details>
 
 <!--end: status pages-->
 
@@ -32,10 +26,10 @@ This repository continuously monitors **https://dev.monkeys.support/healthz** an
 
 ## ⭐ How It Works
 
-- **GitHub Actions** checks your endpoint every 5 minutes  
-- **GitHub Issues** automatically report downtime and recovery  
-- **GitHub Pages** hosts the public status dashboard  
-- **Everything is free** — no servers or paid services required  
+- **GitHub Actions** checks your endpoint every 5 minutes
+- **GitHub Issues** automatically report downtime and recovery
+- **GitHub Pages** hosts the public status dashboard
+- **Everything is free** — no servers or paid services required
 
 ---
 
@@ -57,6 +51,7 @@ Your live status dashboard is available at:
 
 ## 📄 License
 
+- Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE)
 - Data in `./history`: [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/)
 
