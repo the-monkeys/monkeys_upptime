@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Monkeys Blogs",
+    "url": "https://dev.monkeys.support/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/dev.monkeys.support.ico",
+    "slug": "the-monkeys-blogs",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1183,
+    "timeDay": 1183,
+    "timeWeek": 1183,
+    "timeMonth": 1183,
+    "timeYear": 1183,
+    "dailyMinutesDown": {}
+  }
+]
